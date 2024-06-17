@@ -328,5 +328,4 @@ In this project, we learned a lot, and the most important lesson is that anythin
 
 Throughout this project and the Databases course, we learned how to create excellent ERDs and normalize them, making the handling of complex queries much easier. We mastered PHP during the Web course, and we believe it is time to transition to Laravel. Overall, this project has been a great experience that has certainly boosted our confidence as developers, enhanced our egos, and motivated us to work even harder and better. If we can accomplish such things now, imagine what we can achieve with more knowledge. One of the key takeaways from this project is the importance of starting and finishing tasks on time.
 
-#   I n w o u s l u g a  
- 
+#
