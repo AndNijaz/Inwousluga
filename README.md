@@ -4,7 +4,6 @@
 ### Members of the group:
 - Nijaz Andelić
 - Alen Bejtić
-- Haris Mustabašić
 
 ### Professors:
 - Amer Hadžikadić
@@ -94,7 +93,7 @@ Following the well-defined rules in the Analysis statement greatly helped us, an
 Of course, graphical and UI design are not the only aspects of the application's design process. Here we also created the processes and steps that the system will follow. For every input, we made corresponding outputs in the form of test cases. Additionally, we thoroughly described the database attributes and improved the relationships between tables. We defined triggers, views, and procedures. When everything is combined, we have a fully designed product, leaving only the implementation.
 
 #### 2.1.4 Implementation
-We divided the roles and started working. Nijaz, a team member, focused on the full-stack application, ensuring that the frontend and backend were well integrated and that the application had a smooth flow. Alen participated in the backend process along with the construction and development of the database and everything related to it, with assistance from Haris. It's worth mentioning that all three members collaboratively designed the logo and the UI.
+We divided the roles and started working. Nijaz, a team member, focused on the full-stack application, ensuring that the frontend and backend were well integrated and that the application had a smooth flow. Alen participated in the backend process along with the construction and development of the database and everything related to it. It's worth mentioning that all members collaboratively designed the logo and the UI.
 
 ##### 2.1.4.1 Technologies
 - IDE and Text Editors:
